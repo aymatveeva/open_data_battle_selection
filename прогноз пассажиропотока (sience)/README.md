@@ -2,4 +2,4 @@
  * задание — Science.csv
  * решение — airport_matveeva-a.ipynb
  
- Задача выполнена в Google Colab c помощью метода Lasso библиотеки sklearn.
+ Задача выполнена в Google Colab c помощью метода **Lasso** библиотеки **sklearn**.
