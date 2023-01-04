@@ -1,5 +1,5 @@
 Классификация новостей по источникам:
- * задание — news.csv
+ * задание — [news.csv](https://drive.google.com/file/d/1g4UlAvAkZCgtiuxiHEgoEy9Cx8crmKCN/view?usp=sharing)
  * ответ — news_matveeva-a.csv
  * решение — news_matveeva-a.ipynb
 
