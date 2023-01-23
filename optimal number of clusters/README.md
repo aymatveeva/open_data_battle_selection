@@ -1,4 +1,4 @@
-Определение оптимального числа кластеров в рамках задачи по кластеризации объектов недвижимости Парижа:
+Finding the optimal number of clusters for Paris real estate properties:
  * task dataset — **ParisHousing.csv**
  * solution code — **paris_matveeva-a.ipynb**
 
