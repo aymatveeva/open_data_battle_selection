@@ -10,5 +10,5 @@ Performed in Google Colab using the **KMeans** method of the **sklearn** library
  * задание — **ParisHousing.csv**
  * решение — **paris_matveeva-a.ipynb**
 
-Задача выполнена в Google Colab c помощью метода **KMeans** библиотеки **sklearn**, визуализация — matplotlib.pyplot.
+Задача выполнена в Google Colab c помощью метода **KMeans** библиотеки **sklearn**, визуализация — **matplotlib.pyplot**.
  
