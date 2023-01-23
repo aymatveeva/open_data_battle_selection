@@ -1,4 +1,4 @@
-Finding the part of the world less correlating with the others: 
+Finding the part of the world less correlated with the others: 
  * task dataset — **covid-19cases.csv**
  * solution dataset — **covid-19cases_matveeva-a.ipynb**
 
